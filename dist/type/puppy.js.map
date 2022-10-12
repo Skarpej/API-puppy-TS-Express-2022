@@ -1,0 +1,1 @@
+{"version":3,"file":"puppy.js","sourceRoot":"","sources":["../../type/puppy.ts"],"names":[],"mappings":"","sourcesContent":["export type Puppy = {\n    breed: string,\n    name: string,\n    birthDate: string\n};"]}
